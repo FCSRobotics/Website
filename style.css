@@ -95,7 +95,8 @@
 }
 
 img.grid-photos {
-	width: 100%;
+	width: 40vw;
+	margin: 0;
 }
 
 img#logo {
