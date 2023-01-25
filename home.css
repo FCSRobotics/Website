@@ -10,12 +10,10 @@
 .home-text {
   color: rgb(255, 255, 255);
   font-size: 70px;
-  padding-top: 200px;
+  
 
   border-width: 5px;
-  padding-left: 300px;
-  padding-right: 300px;
-  padding-bottom: 200px;
+
   background-color: rgba(217, 217, 217, 0);
 }
 .home-container1 {
