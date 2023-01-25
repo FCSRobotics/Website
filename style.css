@@ -93,3 +93,25 @@
   text-transform: none;
   text-decoration: none;
 }
+
+img.grid-photos {
+	width: 40%;
+}
+
+img#logo {
+	width: 100%;
+}
+
+img.qr {
+	width: 20%;
+}
+
+.home-text27 {
+
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	gap: 60%;
+
+}
