@@ -11,7 +11,7 @@
   color: rgb(255, 255, 255);
   font-size: 70px;
   padding-top: 200px;
-  border-color: #ffffff;
+
   border-width: 5px;
   padding-left: 300px;
   padding-right: 300px;
@@ -39,7 +39,7 @@
   font-size: 60px;
   font-family: Nunito;
   padding-top: 200px;
-  border-color: #ffffff;
+  
   border-width: 0px;
   padding-bottom: var(--dl-space-space-unit);
 }
@@ -86,14 +86,14 @@
   padding: 150px;
   font-size: 50px;
   align-self: flex-start;
-  border-color: #ffffff;
+  
   border-width: 5px;
 }
 .home-text09 {
   color: #fdfbfb;
   padding: 150px;
   font-size: 50px;
-  border-color: #ffffff;
+  
   border-width: 5px;
 }
 .home-container4 {
@@ -109,14 +109,14 @@
   padding: 150px;
   font-size: 50px;
   align-self: flex-start;
-  border-color: #ffffff;
+  
   border-width: 5px;
 }
 .home-text11 {
   color: #fdfbfb;
   padding: 150px;
   font-size: 50px;
-  border-color: #ffffff;
+  
   border-width: 5px;
 }
 .home-container5 {
