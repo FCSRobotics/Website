@@ -103,7 +103,7 @@ img#logo {
 }
 
 img.qr {
-	width: 20%;
+	width: 10%;
 }
 
 .home-text27 {
@@ -112,6 +112,6 @@ img.qr {
 	width: 100%;
 	align-items: center;
 	justify-content: center;
-	gap: 30%;
+	gap: 10%;
 
 }
