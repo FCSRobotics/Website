@@ -11,57 +11,60 @@
 }
 .what-is-first-container1 {
   width: 100%;
-  height: 102px;
+  height: 122px;
   display: flex;
   align-items: center;
-  border-color: #ffffff;
-  border-width: 2px;
+  border-color: var(--dl-color-primary-white);
+  border-width: 1px;
   justify-content: flex-start;
-  background-color: #172852;
-  border-top-width: 0px;
+  background-color: var(--dl-color-primary-navy);
+  border-top-width: 2px;
   border-left-width: 0px;
   border-right-width: 0px;
   border-bottom-width: 2px;
 }
 .what-is-first-navlink {
-  color: rgb(255, 255, 255);
-  font-size: 40px;
+  color: #ffffff;
+  width: 25%;
+  font-size: 30px;
+  text-align: center;
   font-family: Georgia;
-  padding-left: 40px;
+  padding-left: 0px;
 }
 .what-is-first-navlink1 {
-  color: var(--dl-color-primary-green);
-  font-size: 40px;
+  color: #a0d995;
+  width: 25%;
+  font-size: 30px;
+  text-align: center;
   font-family: Georgia;
   padding-top: 0px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
   padding-bottom: 0px;
 }
 .what-is-first-navlink2 {
-  color: #ffffff;
-  font-size: 40px;
+  color: rgb(255, 255, 255);
+  width: 25%;
+  font-size: 30px;
+  text-align: center;
   font-family: Georgia;
-  padding-right: var(--dl-space-space-halfunit);
+  padding-right: 0px;
   text-decoration: none;
 }
 .what-is-first-text02 {
-  font-size: 40px;
   font-family: Georgia;
 }
 .what-is-first-navlink3 {
-  color: #ffffff;
-  font-size: 40px;
+  color: rgb(255, 255, 255);
+  width: 25%;
+  font-size: 30px;
+  text-align: center;
   font-family: Georgia;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
   text-decoration: none;
 }
 .what-is-first-text04 {
-  font-size: 40px;
-  font-family: Georgia;
-}
-.what-is-first-text06 {
   color: rgb(23, 40, 82);
   font-size: 70px;
   font-style: normal;
@@ -75,15 +78,31 @@
   height: 139px;
   object-fit: cover;
 }
-.what-is-first-text07 {
+.what-is-first-container2 {
+  width: 100%;
+  height: 541px;
+  display: flex;
+  margin-top: auto;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.what-is-first-text05 {
   color: rgb(255, 255, 255);
+  margin: auto;
+  padding: 0px;
   font-size: 50px;
   text-align: center;
   font-family: Nunito;
-  padding-top: 60px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-bottom: 60px;
+}
+.what-is-first-text06 {
+  font-size: 35px;
+  font-family: Georgia;
+}
+.what-is-first-text07 {
+  font-size: 35px;
+  font-family: Georgia;
 }
 .what-is-first-text08 {
   font-size: 35px;
@@ -97,22 +116,14 @@
   font-size: 35px;
   font-family: Georgia;
 }
-.what-is-first-text11 {
-  font-size: 35px;
-  font-family: Georgia;
-}
-.what-is-first-text12 {
-  font-size: 35px;
-  font-family: Georgia;
-}
-.what-is-first-container2 {
-  width: auto;
-  height: 411px;
+.what-is-first-container3 {
+  width: 100%;
+  height: 344px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
 }
-.what-is-first-container3 {
+.what-is-first-container4 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -120,45 +131,65 @@
   align-items: flex-start;
   justify-content: center;
 }
-.what-is-first-text14 {
+.what-is-first-text12 {
   color: rgb(23, 40, 82);
   font-size: 70px;
   align-self: flex-start;
   font-style: normal;
+  margin-top: 50%;
   font-family: Nunito;
   font-weight: 700;
-  padding-top: 150px;
-  padding-left: 80px;
-  padding-bottom: 150px;
+  margin-left: 50%;
+  padding-top: 0px;
+  padding-left: 0px;
+  margin-bottom: 50%;
+  padding-bottom: 0px;
 }
-.what-is-first-text15 {
+.what-is-first-text13 {
   color: rgb(255, 255, 255);
   font-size: 30px;
   font-family: Georgia;
-  padding-top: 23px;
-  padding-left: 60px;
-  padding-right: 10px;
+  margin-left: 15%;
+  padding-top: 0px;
+  margin-right: 0%;
+  padding-left: 0px;
+  padding-right: 0px;
 }
-.what-is-first-container4 {
+.what-is-first-container5 {
   width: 100%;
   height: 320px;
   display: flex;
   align-items: flex-start;
-  padding-left: 187px;
+  padding-left: 0px;
 }
-.what-is-first-text23 {
+.what-is-first-text21 {
   color: #172852;
-  padding: 100px;
+  padding: 0px;
   font-size: 40px;
+  align-self: center;
   font-family: Nunito;
+  margin-left: auto;
   border-color: #ffffff;
   border-width: 0x;
+  margin-right: auto;
 }
-.what-is-first-text24 {
+.what-is-first-text22 {
   color: #172852;
-  padding: 100px;
+  padding: 0px;
   font-size: 40px;
+  align-self: center;
   font-family: Nunito;
   border-color: #ffffff;
   border-width: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media(max-width: 479px) {
+  .what-is-first-container2 {
+    height: 882px;
+  }
+  .what-is-first-container3 {
+    height: 982px;
+    margin-bottom: 3px;
+  }
 }
